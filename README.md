@@ -4,6 +4,8 @@ Unity’s DOTS Fundamentals for ECS and put the concepts into practice by buildi
 
 https://github.com/user-attachments/assets/17832324-8373-49b8-956e-bd4ee6e78fad
 
+[Play the Solar DOTS browser world](https://bindo56.github.io/worlds/event-horizon/) — an interactive Three.js interpretation of this Unity ECS and Burst project.
+
 
 I worked with ISystem, IJobEntity, Burst-compiled jobs, and EndSimulationEntityCommandBufferSystem to handle large-scale gravitational motion efficiently. Using subscenes, bakers, and chunk-based data layout made it possible to simulate thousands of bodies with stable performance.
 
